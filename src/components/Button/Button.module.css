@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.button{
+    height: 3em;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    text-align: center;
+    flex-basis: 29%;
+    margin: 0.3em;
+    box-shadow: 1px 1px 3px black;
+    transition: 0.5s;
+    color: white;
+    background-color: rgb(133, 69, 80);
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1rem;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+/* .button:hover{
+    background: rgb(214, 172, 172);
+} */
+
